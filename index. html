@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mimoun</title>
+<style>
+body{font-family:system-ui,Arial,sans-serif;max-width:720px;margin:40px auto;padding:0 16px;line-height:1.7;color:#222}
+nav a{margin-right:16px}section{margin-top:40px}footer{margin-top:48px;color:#666;font-size:14px}
+</style>
+</head>
+<body>
+
+<h1>Mimoun</h1>
+<p>Mimoun is an app that explains lessons to students in a simple and clear way. You can sign in with your Google account to use it.</p>
+<nav>
+<a href="#privacy">Privacy Policy</a>
+<a href="#terms">Terms of Service</a>
+</nav>
+<p>Contact: <a href="mailto:ramim96969696@gmail.com">ramim96969696@gmail.com</a></p>
+
+<section id="privacy">
+<h2>Privacy Policy</h2>
+<p>Last updated: November 19, 2026</p>
+<p>Mimoun ("we", "the app") respects your privacy. This policy explains what information we collect and how we use it.</p>
+<h3>Information we collect</h3>
+<p>When you sign in with Google, we may receive your name, email address and profile picture. We collect only what is needed to provide the app.</p>
+<h3>How we use it</h3>
+<ul>
+<li>To identify you and let you sign in.</li>
+<li>To provide and improve the lesson explanations.</li>
+<li>To contact you about the service when necessary.</li>
+</ul>
+<h3>Google user data</h3>
+<p>Our use of information received from Google APIs adheres to the <a href="https://developers.google.com/terms/api-services-user-data-policy">Google API Services User Data Policy</a>, including the Limited Use requirements. We do not sell Google user data or use it for advertising.</p>
+<h3>Sharing</h3>
+<p>We do not sell or share your personal information with third parties, except when required by law.</p>
+<h3>Deletion</h3>
+<p>You can ask us to delete your data at any time by emailing ramim96969696@gmail.com, and you can remove the app's access from your <a href="https://myaccount.google.com/permissions">Google Account permissions</a>.</p>
+</section>
+
+<section id="terms">
+<h2>Terms of Service</h2>
+<p>Last updated: November 19, 2026</p>
+<p>By using Mimoun you agree to these terms.</p>
+<ul>
+<li>Use the app lawfully and do not misuse it or try to disrupt it.</li>
+<li>You are responsible for activity on your Google account when using the app.</li>
+<li>The lesson explanations are for educational purposes and are provided "as is" without warranties.</li>
+<li>We are not liable for any damages resulting from the use of the app.</li>
+<li>We may change these terms or suspend the service at any time.</li>
+</ul>
+<p>Questions: <a href="mailto:ramim96969696@gmail.com">ramim96969696@gmail.com</a></p>
+</section>
+
+<footer>&copy; 2026 Mimoun</footer>
+</body>
+</html>
